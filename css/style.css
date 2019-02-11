@@ -327,11 +327,14 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   margin-top:2em;
 
   }#fh5co-contact-section{
-  margin-top:500px;
+  margin-top:800px;
 }
 #fh5co-intro-section {
   margin-bottom: 4em;
   padding-bottom: 3em;
+}
+#More{
+  margin-top:150px;
 }
 
 .intro-heading {
