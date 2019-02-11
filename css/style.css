@@ -382,10 +382,10 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   display: block;
   text-decoration: none;
   cursor: pointer;
-  color: rgba(0, 0, 0, 0.3);
+  color: black;
 }
 #filters li span:hover, #filters li span:focus, #filters li span.active {
-  color: #000 !important;
+  color: #FB5F5F !important;
 }
 
 #portfoliolist .portfolio {
