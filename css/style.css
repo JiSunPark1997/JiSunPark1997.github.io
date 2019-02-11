@@ -53,13 +53,13 @@ hr.intro{
   outline: none;
 }
 
-#linkedin,#fb,#insta{
+#linkedin,#fb,#insta,#email{
   color: #FABBAD;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-#linkedin:hover,#fb:hover,#insta:hover{
+#linkedin:hover,#fb:hover,#insta:hover,#email:hover{
   color: #727272;
   opacity: 0.3;
 }
@@ -333,9 +333,29 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   margin-bottom: 4em;
   padding-bottom: 3em;
 }
+
 #More{
   margin-top:150px;
 }
+#MoreAboutMe{
+  color: #FABBAD;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+#MoreAboutMe:hover{
+  color: #727272;
+  opacity: 0.3;
+}
+
+#magazine{
+  transition: transform .2s;
+  margin: 0 auto;
+}
+#magazine:hover{
+  transform: scale(1.5);
+}
+
 
 .intro-heading {
   font-size: 50px;
@@ -435,6 +455,8 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   top: 0;
   left: 0;
 }
+
+
 
 .portfolio .text-category {
   display: block;
